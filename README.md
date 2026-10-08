@@ -218,7 +218,7 @@ Through this project, I learned and practiced:
 
 **Intekhab Alam**
 
-BTech Computer Science Student
+BTech CSE student
 
 ## Project Goal
 
